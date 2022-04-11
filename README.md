@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Node.js & Express.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Site](https://rajkshrestha1.com.np/), [Instagram](https://instagram.com/srestraj)
-- 🤖 My gists: [Gists](https://gist.github.com/srestraj)
+- 🤖 My [gists](https://gist.github.com/srestraj)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=srestraj&theme=tokyonight&show_icons=true)
 
