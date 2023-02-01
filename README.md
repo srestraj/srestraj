@@ -41,4 +41,4 @@ Front-end Developer (Vue.js/Nuxt.js)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=srestraj&layout=compact&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
-<a href="http://www.github.com/srestraj"><img src="https://activity-graph.herokuapp.com/graph?username=srestraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Srestraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=srestraj&bg_color=191d20&color=e0e0e0&line=42bd57&point=257432&area=true&hide_border=true)](https://github.com/srestraj)
