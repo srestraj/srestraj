@@ -2,16 +2,16 @@
 
 ===================================
 
-Front-end Developer (Vue.js/Nuxt.js)
+Front-end Developer
 ------------------------------------
 
 - 🔭 I’m currently working on [Mero Rating](https://www.merorating.com/).
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js & Node.js
 - 🤔 I’m looking for help with Node.js & Express.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Site](https://rajkshrestha1.com.np/), [Instagram](https://instagram.com/srestraj)
 - 🤖 My [gists](https://gist.github.com/srestraj)
-- 🤝  I'm open to collaborating on Vue.js and/or Nuxt.js
+- 🤝  I'm open to collaborating on Vue.js/Nuxt.js and/or React.js/Next.js
 
 ### Skills
 
