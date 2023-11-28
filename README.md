@@ -42,11 +42,11 @@ Front-end Developer
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 31 mins   ██████████████████▓░░░░░░   74.80 %
-JavaScript   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Markdown     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-PHP          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Twig         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   6 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
+JavaScript   3 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Twig         2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+PHP          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
