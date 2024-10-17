@@ -42,8 +42,9 @@ Front-end Developer
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       42 mins         █████████████████████████   99.55 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Vue.js       42 mins         ███████████████████░░░░░░   76.05 %
+JavaScript   13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.61 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
