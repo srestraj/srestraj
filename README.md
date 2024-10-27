@@ -42,11 +42,11 @@ Front-end Developer
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 %
-PHP          3 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-Twig         1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-JavaScript   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Vue.js       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TypeScript   6 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.88 %
+PHP          3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+Twig         1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+JavaScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Vue.js       48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
