@@ -49,11 +49,7 @@ Front-end Developer
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 14 mins   ████████████████████░░░░░   79.44 %
-HTML         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-JSON         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
