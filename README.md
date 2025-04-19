@@ -47,7 +47,9 @@ Front-end Developer
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   10 mins         █████████████████████████   100.00 %
+PHP          1 hr 6 mins     █████████████████████████   99.80 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
